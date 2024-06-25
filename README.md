@@ -1,6 +1,6 @@
 # About Me:
 
-Hey, I´m Raphael.<br>I´m studying software engineering.<br>Creating bugs since 2022.
+Hey, I´m Raphael.<br><br>Creating bugs since 2022.
 
 # 💻 Tech Stack:
 
